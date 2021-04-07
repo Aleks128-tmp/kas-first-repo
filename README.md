@@ -1,30 +1,27 @@
-# This is a large heading
+# Aleksey Korotin
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Togliatti Samara region
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+ my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *How the Steel Was Tempered* by Ostrovsky Nikolai
+- *The Idiot* by Fyodor Dostoyevsky
 
-```
-This is
-a block
-of code
-```
+### Sport
 
-Here is how you make [a link](https://www.wikipedia.org/).
+ my favorite sport are:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1.  Volleyball 
+2.  Sports orientation
 
-nano README.md
+### Contact
+
+you need to choose the best way for contacts
+
+
+![This is an image.](https://drive.google.com/file/d/1mMsgCcol5iuoOL1vf8-_31HmEUhaL-Sn/view?usp=sharing)
+
